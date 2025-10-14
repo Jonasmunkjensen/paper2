@@ -1,0 +1,96 @@
+---
+title: "Samtykkeerklæring"
+subtitle: "Træning eller ej? Hvad er på spil for personer med type 2-diabetes i kommunale træningsforløb?"
+author: "Jonas Munk Jensen, ph.d.-studerende, Aarhus Universitet"
+date: "2025-10-14"
+format: 
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry: "margin=2.5cm"
+    header-includes:
+      - \usepackage{graphicx}
+      - \usepackage{fancyhdr}
+      - \pagestyle{fancy}
+      - \fancyhead[L]{\includegraphics[width=4cm]{images/au_logo.png}}
+      - \fancyhead[R]{}
+      - \fancyfoot[L]{Aarhus Universitet \\ Institut for Folkesundhed}
+      - \fancyfoot[R]{\thepage}
+      - \renewcommand{\headrulewidth}{0pt}
+      - \renewcommand{\footrulewidth}{0.4pt}
+---
+
+# 1. Introduktion
+
+Tak for din interesse i at deltage i forskningsprojektet **“To HIIT or not to HIIT”**, som gennemføres af Jonas Munk Jensen, ph.d.-studerende ved Aarhus Universitet.  
+Projektet er en del af LIVING-projektet og har til formål at undersøge, hvordan personer med type 2-diabetes træffer beslutning om, hvorvidt de vil deltage i højintensiv intervaltræning (HIIT) som en del af et kommunalt patientuddannelses- og træningsforløb (DSMP).
+
+Vi er særligt interesserede i at forstå:
+
+- Hvad der er på spil for deltagerne, når de vælger at deltage eller fravælge HIIT
+- Hvilke fordele og bekymringer der har betydning for beslutningen
+- Hvordan sundhedsprofessionelle, familie og andre deltagere påvirker beslutningsprocessen
+
+Som deltager bliver du inviteret til et individuelt interview. Interviewet foregår enten fysisk eller online efter aftale og varer cirka 45–60 minutter. Interviewet optages som lydoptagelse, så det kan transskriberes og analyseres.
+
+Din deltagelse er **frivillig**, og du kan til enhver tid vælge at trække dig uden at skulle give en begrundelse. Dette vil ikke få konsekvenser for dit forløb i kommunen eller andre ydelser.
+
+---
+
+# 2. Samtykke og opbevaring af oplysninger
+
+Ved at give dit samtykke giver du tilladelse til, at de oplysninger, du deler i interviewet, anvendes til forskningsformål som beskrevet ovenfor.
+
+Interviewoptagelserne transskriberes, og alle personidentificerbare oplysninger anonymiseres, så det ikke er muligt at genkende dig i de endelige resultater.
+
+Data opbevares sikkert og i overensstemmelse med gældende databeskyttelseslovgivning. Personoplysninger slettes, anonymiseres eller indsendes til Rigsarkivet senest ved projektets afslutning den **31-12-2028**, eller tidligere hvis oplysningerne ikke længere er nødvendige. Hvis projektet forlænges, kan denne dato blive ændret.
+
+**Dataansvarlig:**  
+Region Midtjylland  
+Regionshuset Viborg  
+Skottenborg 26, Postboks 21  
+8800 Viborg  
+CVR-nummer: 29190925
+
+---
+
+# 3. Anvendelse af samtykke
+
+Ved at underskrive denne erklæring giver du tilladelse til, at de oplysninger, du giver i interviewet, må anvendes til forskning i overensstemmelse med ovenstående. Samtykket er frivilligt og kan trækkes tilbage på et hvilket som helst tidspunkt.
+
+Resultater fra undersøgelsen kan blive publiceret i videnskabelige artikler og præsenteret på konferencer. Offentliggørelse vil aldrig indeholde oplysninger, der kan henføres til dig som person.
+
+---
+
+# 4. Dine rettigheder
+
+Du har følgende rettigheder i forbindelse med behandlingen af dine oplysninger:
+
+- **Tilbagetrækning af samtykke:** Du kan til enhver tid trække dit samtykke tilbage uden begrundelse.  
+- **Berigtigelse:** Du har ret til at få rettet urigtige oplysninger om dig.  
+- **Sletning:** Du kan anmode om sletning af dine oplysninger, såfremt de ikke længere er nødvendige for forskningsformålet, og sletningen ikke gør det umuligt eller i væsentlig grad vanskeliggør gennemførelsen af projektet.  
+- **Begrænsning af behandling:** Du kan anmode om, at dine oplysninger kun opbevares i en afgrænset periode.  
+- **Indsigelse:** Du har ret til at gøre indsigelse mod behandlingen af dine oplysninger, medmindre behandlingen er nødvendig for at udføre en forskningsopgave i samfundets interesse.
+
+Hvis du ønsker at gøre brug af dine rettigheder, kan du kontakte:
+
+**Jonas Munk Jensen**  
+Ph.d.-studerende, Aarhus Universitet  
+E-mail: [indsæt mailadresse]
+
+Du kan også kontakte Region Midtjyllands databeskyttelsesrådgiver: **dpo@rm.dk**.
+
+Hvis du mener, at dine oplysninger ikke behandles i overensstemmelse med reglerne, kan du klage til Datatilsynet.
+
+---
+
+# 5. Skriftligt samtykke
+
+Jeg har læst ovenstående information. Jeg har haft mulighed for at stille spørgsmål og har fået tilfredsstillende svar. Jeg giver hermed frivilligt samtykke til at deltage i undersøgelsen.
+
+**Navn:** ______________________________________________
+
+**Underskrift:** _________________________________________
+
+**Dato:** ______________________________________________

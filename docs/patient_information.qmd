@@ -13,7 +13,7 @@ format: pdf
 Vi vil gerne forstå, hvordan personer med type 2-diabetes træffer beslutningen om, hvorvidt de vil deltage i højintensiv intervaltræning (HIIT) som en del af et kommunalt patientuddannelsesforløb. Vi er særligt interesserede i:
 
 - Hvad der er på spil for deltagerne, når de vælger at deltage eller fravælge træning
-- Hvilke fordele og bekymringer der har betydning for beslutningerne  
+- Hvilke fordele og bekymringer der har betydning for beslutningerne
 - Hvordan sundhedsprofessionelle, familie og andre personer påvirker beslutningsprocessen  
 
 Undersøgelsen er en del af LIVING-projektet og indgår som en kvalitativ delundersøgelse i Jonas Munk Jensens ph.d.-projekt ved Aarhus Universitet.
