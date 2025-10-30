@@ -1,12 +1,8 @@
 ---
 title: "Deltagerinformation"
-format: pdf
----
-
-# Træning eller ej? Hvad er på spil for personer med type 2-diabetes i kommunale træningsforløb?
-
-**Ansvarlig for undersøgelsen:** Jonas Munk Jensen, ph.d.-studerende, Aarhus Universitet
-
+subtitle: "Træning eller ej? Hvad er på spil for personer med type 2-diabetes i kommunale træningsforløb?"
+author: "Jonas Munk Jensen, ph.d.-studerende, Aarhus Universitet"
+format: docx
 ---
 
 # Formålet med undersøgelsen
