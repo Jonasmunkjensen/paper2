@@ -1,13 +1,10 @@
 ---
 title: "Deltagerinformation"
-format: pdf
+subtitle: "Træning eller ej? Hvad er på spil for personer med type 2-diabetes i kommunale træningsforløb?"
+author: "Jonas Munk Jensen, ph.d.-studerende, Aarhus Universitet"
+format: docx
 ---
-
-# Træning eller ej? Hvad er på spil for personer med type 2-diabetes i kommunale træningsforløb?
-
-**Ansvarlig for undersøgelsen:** Jonas Munk Jensen, ph.d.-studerende, Aarhus Universitet
-
----
+# Jeg laver hermed en ændring! 
 
 # Formålet med undersøgelsen
 Vi vil gerne forstå, hvordan personer med type 2-diabetes træffer beslutningen om, hvorvidt de vil deltage i højintensiv intervaltræning (HIIT) som en del af et kommunalt patientuddannelsesforløb. Vi er særligt interesserede i:
